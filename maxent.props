@@ -1,0 +1,15 @@
+1.useLowercaseSplitWords=true
+1.useSplitWords=true
+1.splitWordsTokenizerRegexp=[\\p{L}][\\p{L}0-9]*|(?:\\$ ?)?[0-9]+(?:\\.[0-9]{2})?%?|\\s+|[\\x80-\\uFFFD]|.
+1.splitWordsIgnoreRegexp=\\s+
+1.useSplitPrefixSuffixNGrams=true
+1.splitWordShape=chris4
+#1.useSplitWordPairs=true
+
+1.useSplitFirstLastWords=true
+
+1.useSplitWordNGrams=true
+1.minWordNGramLeng=1
+1.maxWordNGramLeng=3
+
+1.lowercase=true
